@@ -2018,7 +2018,7 @@ footer {
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 330px) {
   .container-section {
     height: 96vh;
   }
