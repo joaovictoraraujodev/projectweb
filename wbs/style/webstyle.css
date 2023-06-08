@@ -1454,7 +1454,7 @@ footer {
   }
 }
 
-@media screen and (max-width: 427px) {
+@media screen and (max-width: 450px) {
   .container-section {
     height: 80vh;
   }
