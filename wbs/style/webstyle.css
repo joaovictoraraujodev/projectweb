@@ -1735,7 +1735,7 @@ footer {
     font-size: small;
   }
 }
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 380px) {
   .container-section {
     height: 110vh;
   }
